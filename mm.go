@@ -1,5 +1,6 @@
 package mymath
 
+//v1.0.0
 import "math"
 
 func Sqrt(x float64) float64 {
